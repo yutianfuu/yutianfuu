@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 💼 &nbsp;Had already done three internships 
 - 🌱 &nbsp;I’m currently learning React
 - 👨‍💻 &nbsp;Read more about my projects at [yutianfuu.com](https://yutianfuu.github.io/PersonalWeb/)
-- ⚡ &nbsp;Fun fact: heart: :dog:
+- ⚡ &nbsp;Fun fact: :heart: :dog: & :cat:
 <img  width = "400px" height = "165px" alt="GitHub Status"  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu" align="left"/> 
 <!-- 
 ![Yutian's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu) </br> -->
