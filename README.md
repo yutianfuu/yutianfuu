@@ -19,7 +19,10 @@ Here are some ideas to get you started:
 - 🌱 &nbsp;I’m currently learning React
 - 👨‍💻 &nbsp;Read more about my projects at [yutianfuu.com](https://yutianfuu.github.io/PersonalWeb/)
 - ⚡ &nbsp;Fun fact: heart: :dog:
+<img  width = "400px" height = "165px" alt="GitHub Status"  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu" align="left"/> 
+<!-- 
+![Yutian's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu) </br> -->
+ <img  width = "335px" height = "168px" alt="Most Used" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=yutianfuu&layout=compact" align= "center"/>
 
-![Yutian's github stats](https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu) </br>
 
 
