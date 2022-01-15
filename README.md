@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💼 Had already done three internships 
+- 💼 &nbsp;Had already done three internships 
 - 🌱 &nbsp;I’m currently learning React
 - 👨‍💻 &nbsp;Read more about my projects at [yutianfuu.com](https://yutianfuu.github.io/PersonalWeb/)
 - ⚡ &nbsp;Fun fact: heart: :dog:
