@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi, 👋
 
 <!--
 **yutianfuu/yutianfuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,11 +12,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
+- 🌱 &nbsp;I’m currently learning AWS
 - ⚡ Fun fact: ...
 -->
 - 🔭 &nbsp;I’m currently working on something cool :wink:
 - 💼 &nbsp;Had already done three internships 
-- 🌱 &nbsp;I’m currently learning AWS
+
 - 👨‍💻 &nbsp;Read more about my projects at [yutianfuu.com](https://yutianfuu.github.io/PersonalWeb/)
 - ⚡ &nbsp;Fun fact: :heart: :dog: & :cat:
 <img  width = "400px" height = "165px" alt="GitHub Status"  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu" align="left"/> 
