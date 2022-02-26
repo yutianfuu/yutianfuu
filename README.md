@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 &nbsp;I’m currently working on something cool :wink:
-- 💼 &nbsp;Had already done three internships 
+<!-- - 💼 &nbsp;Had already done three internships  -->
 
-- 👨‍💻 &nbsp;Read more about my projects at [yutianfuu.com](https://yutianfuu.github.io/PersonalWeb/)
-- ⚡ &nbsp;Fun fact: :heart: :dog: & :cat:
+<!-- - 👨‍💻 &nbsp;Read more about my projects at [yutianfuu.com](https://yutianfuu.github.io/PersonalWeb/) -->
+<!-- - ⚡ &nbsp;Fun fact: :heart: :dog: & :cat: -->
 <img  width = "400px" height = "165px" alt="GitHub Status"  src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=yutianfuu" align="left"/> 
 <img  width = "335px" height = "168px" alt="Most Used" src="https://bad-apple-github-readme.vercel.app/api/top-langs/?username=yutianfuu&layout=compact" align= "center"/>
 <hr>
